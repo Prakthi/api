@@ -1,4 +1,3 @@
-# fist simple program
 
 def fun(name,id):
     print("hi my name",name)
